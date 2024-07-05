@@ -1,0 +1,6 @@
+Browser                Node
+
+1 global Object
+
+brow = window , fetch , file system
+node = global , third part use krtre (axios, jquery) , file system access

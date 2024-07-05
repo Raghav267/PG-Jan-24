@@ -1,0 +1,5 @@
+views 
+    product >> prudct views
+    auth  >> auth pages
+    layout >> layout
+    partials >> partials
